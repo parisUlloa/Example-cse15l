@@ -20,14 +20,14 @@ a new wat to show information
 
 something new I have learned 
 
--apple
--banana
--tomato
+- apple
+- banana
+- tomato
 
 Different way to list:
-1.tomato
-2.banana
-3.potato
+1. tomato
+2. banana
+3. potato
 
 making a fake link here <https://hi.com>
 
