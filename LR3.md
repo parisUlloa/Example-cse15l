@@ -47,21 +47,54 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 >In this case I will write in the terminal something like this with the command:
 >
->![Image](f.png)
+>![Image](plos.png)
 >
 >The reason why this command can be helpful when wanting to see a specific directory and what is inside it. For this command it will output whats inside the specific directory I typed (which in this case is `plos` this:
 >
->![Image](f.png)
+>![Image](ploso.png)
 >
 
-**Using the same command byt having a different directory implemented: `biomed`**
+**Using the same command but having a different directory implemented: `biomed`**
 
 >Same command will be implemented in the terminal just different directoy:
 >
->![Image](o.png)
+>![Image](biomed.png)
 >
 >This command will be able to show everything that is placed inside the. `biomed` directory
 >Which will output something like this:
 >
+>![Image](biomedo.png)
+>
+
+**Third intresting command line option**
+---
+
+`find technical -name "title of file that ends with"`
+
+>This command will be able to find all the files that end with the string implemented in qoutes at the end. In this case will will be using star in front of the last numbers to easily find all the files that end with that number of pair. (* will fill out whatever could possibly be in the front of the pair numbers)
+>
+>For example in the terminal it will look like this:
+>
+>![Image](o.png)
+>This command is useful to easily find a file by condensing all the possible files that have the string.
+>This would be the output of the command:
+>
 >![Image](o.png)
 >
+
+**Using the same command but a diffrenet string implemented at the end to find**
+
+>For this command I will be adding the string `find technical -name ""`
+>It will look something like this:
+>
+>![Image](o.png)
+>
+>which will provide this output like the example above:
+>
+>![Image](o.png)
+>
+
+**Fourth intresting command line option**
+---
+
+`
