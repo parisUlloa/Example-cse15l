@@ -108,7 +108,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 >The output will only show that directories/files that are valid for the size implemented:
 >
->![Image](1k.png)
+>![Image](1ko.png)
 >
 
 **Using the same command but a different size implemented at the end**
