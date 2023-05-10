@@ -31,7 +31,37 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 >![Image](fire.png)
 >
->This command version of find, you can include multiple file types in your search results, which will be helpful in finding a specific file in the directory >by a name or title.
+>This command version of find, you can include multiple file types in your search results, which will be helpful in finding a specific file in the directory just by adding the name of th specific file trying to find by using `-name "THE TITLE TRYING TO FIND*"` This command will by directly provide all the possible files with the name implemented
+>For Examples the command will look somethhing like this if it found a file with the name I implemented (which in this case it was fire):
 >
 >![Image](fireo.png)
+>
+
+**Second interesting command line option**
+---
+
+`find technical/(directory)`
+
+>This command can be implemented with the file technical and any choice of directory that you know is present in the file
+>One directory that I know is there would be `plos`
+>
+>In this case I will write in the terminal something like this with the command:
+>
+>![Image](f.png)
+>
+>The reason why this command can be helpful when wanting to see a specific directory and what is inside it. For this command it will output whats inside the specific directory I typed (which in this case is `plos` this:
+>
+>![Image](f.png)
+>
+
+**Using the same command byt having a different directory implemented: `biomed`**
+
+>Same command will be implemented in the terminal just different directoy:
+>
+>![Image](o.png)
+>
+>This command will be able to show everything that is placed inside the. `biomed` directory
+>Which will output something like this:
+>
+>![Image](o.png)
 >
