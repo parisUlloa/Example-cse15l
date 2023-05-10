@@ -1,35 +1,16 @@
-**hi <3**
+##Lab Report 3 - Researching Commands
+---
 
-_italic example_
+Four Intresting Command Line operations for `find` using directory `technical`
 
-**how _fun_ and _exciting_ is this**
+IMPOTRANT INFO: `grep` is command line operation that searches for files in a specific directory
 
+---
 
-## Part1
-this part is about 
+**First interesting command-line option**
 
-## Part2
-this part is aldo about
-
-
-a new wat to show information
-> this would be the new way to show information
-> - apple
-> 
-> is it listing this within
-> 
-
-something new I have learned 
-
-- apple
-- banana
-- tomato
-
-Different way to list:
-1. tomato
-2. banana
-3. potato
-
-making a fake link here <https://hi.com>
-
+>`find ~ -type f`
+>This command operation will display files, directories, symlinks, named pipes, sockets, and more using the -type option
+>. 
+>
 
