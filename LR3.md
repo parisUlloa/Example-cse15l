@@ -29,9 +29,9 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 >This is how it would look typed in the terminal: 
 >
->![Image](fi.png)
+>![Image](fire.png)
 >
 >This command version of find, you can include multiple file types in your search results, which will be helpful in finding a specific file in the directory >by a name or title.
 >
->![Image](fi.png)
+>![Image](fireo.png)
 >
