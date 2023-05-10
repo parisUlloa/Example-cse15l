@@ -75,26 +75,51 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 >For example in the terminal it will look like this:
 >
->![Image](o.png)
+>![Image](2.png)
 >This command is useful to easily find a file by condensing all the possible files that have the string.
 >This would be the output of the command:
 >
->![Image](o.png)
+>![Image](2o.png)
 >
 
 **Using the same command but a diffrenet string implemented at the end to find**
 
->For this command I will be adding the string `find technical -name ""`
+>For this command I will be adding the string `find technical -name "*9.txt"`
 >It will look something like this:
 >
->![Image](o.png)
+>![Image](9.png)
 >
 >which will provide this output like the example above:
 >
->![Image](o.png)
+>![Image](9o.png)
 >
 
 **Fourth intresting command line option**
 ---
 
-`
+`find technical -type f -size -1k` 
+
+>This comand will take all the directories and files in technical and will spcifically find the certain size that I want to find
+>For example with this command in the terminal having `-1k` at the end will ony find that specific size within all the directories technical may have
+>
+>In the terminal it will look something like this:
+>
+>![Image](1k.png)
+>
+>The output will only show that directories/files that are valid for the size implemented:
+>
+>![Image](1k.png)
+>
+
+**Using the same command but a different size implemented at the end**
+
+>In this case I will be trying `-5k`
+>The terminal will look something like this:
+>
+>![Image](5k.png)
+>
+>With an output of:
+>
+>![Image](5ko.png)
+>
+>**NOTE: notice how when I implemented a size of `-0k` before my command of size `-5k` it didnt print any since not file or directory have a size of 0**
