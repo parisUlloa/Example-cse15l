@@ -1,5 +1,5 @@
 Lab Report 3 - Researching Commands
----
+===
 
 Four Intresting Command Line operations for `find` using directory `technical`
 
@@ -22,7 +22,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >![Image](firsto.png)
 >
 
--Using the same command but having a specific file type: `find technical -type f,l -name "Fire*"`
+**Using the same command but having a specific file type: `find technical -type f,l -name "Fire*"`**
 
 >This is how it would look typed in the terminal: 
 >
