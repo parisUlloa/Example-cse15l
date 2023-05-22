@@ -3,12 +3,13 @@ Lab Report 3 - Researching Commands
 
 Four Intresting Command Line operations for `find` using directory `technical`
 
-IMPOTRANT INFO: `grep` is command line operation that searches for files in a specific directory
+IMPOTRANT INFO: `find` is command line operation that searches for files in a specific directory
 
 ---
 
 **First interesting command-line option**
 ---
+-Website Used: [Link](http://www.redhat.com/sysadmin/linux-find-commanda.com)
 
 `find ~ -type f`
 
@@ -26,6 +27,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 
 **Using the same command but having a specific file type: `find technical -type f,l -name "Fire*"`**
+-Website Used: [Link](http://www.redhat.com/sysadmin/linux-find-commanda.com)
 
 >This is how it would look typed in the terminal: 
 >
@@ -39,6 +41,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 **Second interesting command line option**
 ---
+-Website Used: [Link](http://-Website Used: [Link](http://ucsd-cse15l-s23.github.io/week/week5/.com)
 
 `find technical/(directory)`
 
@@ -56,6 +59,8 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 **Using the same command but having a different directory implemented: `biomed`**
 
+-Website Used: [Link](http://-Website Used: [Link](http://ucsd-cse15l-s23.github.io/week/week5/.com)
+
 >Same command will be implemented in the terminal just different directoy:
 >
 >![Image](biomed.png)
@@ -68,6 +73,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 **Third intresting command line option**
 ---
+-Website Used: [Link](http://-Website Used: [Link](http://ucsd-cse15l-s23.github.io/week/week5/.com)
 
 `find technical -name "title of file that ends with"`
 
@@ -83,6 +89,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 
 **Using the same command but a diffrenet string implemented at the end to find**
+-Website Used: [Link](http://-Website Used: [Link](http://ucsd-cse15l-s23.github.io/week/week5/.com)
 
 >For this command I will be adding the string `find technical -name "*9.txt"`
 >It will look something like this:
@@ -96,6 +103,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 
 **Fourth intresting command line option**
 ---
+-Website Used: [Link](http://www.redhat.com/sysadmin/linux-find-commanda.com)
 
 `find technical -type f -size -1k` 
 
@@ -112,6 +120,7 @@ IMPOTRANT INFO: `grep` is command line operation that searches for files in a sp
 >
 
 **Using the same command but a different size implemented at the end**
+-Website Used: [Link](http://www.redhat.com/sysadmin/linux-find-commanda.com)
 
 >In this case I will be trying `-5k`
 >The terminal will look something like this:
